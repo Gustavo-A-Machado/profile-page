@@ -1,10 +1,52 @@
-.social {
-    width: 30px;
+
+body {
+    text-align: center;
+    background-image: linear-gradient(to right, #406FE6, #4690FF )
 }
 
-#euquadrado {
-    width: 100px;
+#gustavo{
+    margin: 100px;
+    width: 300px;
     border: none;
-    border-radius: 50%;
-    
+    border-radius: 100px;
 }
+
+main {
+    border-radius: 10px;
+    margin: auto;
+    width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    box-shadow: 10px 10px 10px #0050A4;
+    background-color: white;
+}
+.social{
+    width: 30px
+}
+
+
+.social_link {
+    text-decoration: none;
+    font-weight: bold;
+    color: #85AFEE;
+}
+.social_link:hover {
+    text-decoration: underline;
+}
+
+.social_link:active {
+    color: #1C3C6B;
+}
+.social_link:visited {
+    color: #3066B8;
+}
+
+h1 {
+    color: #3D82EB;
+}
+
+h2 {
+    color: #3066B8;
+}
+
+
